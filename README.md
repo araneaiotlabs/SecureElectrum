@@ -1,2 +1,0 @@
-# SecureElectrum
-For SecureElectrum Project
